@@ -101,7 +101,7 @@ def random_lat_lng(start_x, start_y)
   [x + start_x, y + start_y]
 end
 
-puts "🐕 Seeding data..."
+puts "🐕 Seeding data..." 
 
 # Create 100 random dog houses
 100.times do
